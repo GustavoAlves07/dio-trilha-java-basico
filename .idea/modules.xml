@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" />
       <module fileurl="file://$PROJECT_DIR$/metodos-sistema-smart-tv/metodos-sistema-smart-tv.iml" filepath="$PROJECT_DIR$/metodos-sistema-smart-tv/metodos-sistema-smart-tv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/terminal-argumentos/terminal-argumentos.iml" filepath="$PROJECT_DIR$/terminal-argumentos/terminal-argumentos.iml" />
       <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
     </modules>
   </component>
